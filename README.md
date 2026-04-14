@@ -1,0 +1,1 @@
+A Python-based sci-fi themed authentication system that simulates a secure neural identity terminal. It features multi-layer user verification including username validation, access key authentication, and neural pattern (math-based) verification. The system also includes security responses, user lockout handling, and registry management to simulate a real-world security protocol.
